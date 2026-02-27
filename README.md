@@ -4,8 +4,6 @@ Here’s a clean, professional README you can use for your repository:
 
 ---
 
-# Uhaki Legal Act Classifier
-
 ## Overview
 
 Uhaki Legal Act Classifier is a transformer-based legal text classification system designed to map user legal queries to one of 19 Kenyan Acts.
